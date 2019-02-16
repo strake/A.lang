@@ -1,0 +1,43 @@
+# Consonant Inventory
+
+	Bilab	LabDent	Alv	PostAlv	Pal	Vel
+Nasal	m		n		ñ	ŋ
+Stop	p		t		ŧ	k
+Fric		f	s	š		x
+Approx			r		j
+Lat			l		ł
+
+# Vowel Inventory
+
+i ü	y	u
+e ö		o
+ε		ɔ
+	a
+
+## Diphthongs
+
+ai au
+
+# Phonotactics
+
+NonfinalSyllable: (Consonant | Affricate) Vowel | (Plosive) Liquid (Vowel)
+FinalSyllable: NonfinalSyllable (Nonplosive) | Affricate | Fricative
+
+# Allophonics
+
+Intervocalic consonants and initial fricatives (including affricates) are voiced.
+Some dialects pronounce "f" as /φ/ and/or "š" as /ɕ/.
+In some dialects (including the common dialect), a glottal stop may separate words which would otherwise be ambiguous.
+
+# Stress
+
+First syllable
+
+# Vowel Harmony
+
+Is a primary frontness harmony, and a secondary roundness harmony for front vowels.
+
+	+Front	Neutral	-Front
++Round	ü ö
+Neutral	ε	a y	u o ɔ
+-Round	i e
