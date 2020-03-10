@@ -2,17 +2,24 @@
 
 Agentive	-o -ö -e
 Patientive	-u -ü -i
-Genitive	-y		-- XXX alienable?
-Dative/Captive
+Genitive	-
 Vocative	-
-Locative	-a -ä
-Instrumental	-ɔ -c
+Locative	-a
+Dative		-ɔmra -εmra
+Captive		-ɔnra -εnra
+Instrumental	-ɔ -ε
+
+Notes: Dative and lative, captive and ablative are each equivalent.
 
 # Pronouns
 
 	+You	-You
 +Me	ž	z
 -Me	x	v
+
+## Pronoun Agreement
+
+Pronouns agree in backness and roundness with their referents, where applicable.
 
 # Verbal Conjugation
 
@@ -25,11 +32,17 @@ Verbs are not conjugated by person or tense.
 (Infinitive)	-
 Simple		-
 Continuous	-ar
-Imperative	-al
+Imperative	-el -ol -öl
+
+Notes: Simple can be perfective or, with an appropriate modifying phrase, habitual. Optative (cursing or blessing) is expressed in imperative mood, with appropriate modifying phrase. Optative (wish of speaker) is expressed with verb "to wish".
 
 (Comissive? Hortative?)
-Notes: Imperative and hortative are equivalent. First-person imperative also used as comissive.
+Idea: Imperative and hortative are equivalent. First-person imperative also used as comissive.
 
 # Adjectival Inflexion
 
 Adjectives agree in case with nouns they modify.
+
+# Derivational Morphology
+
+-ous	-ɔl -εl
